@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9dc8d1bd596d94d37804b7ff54370da8
+timeCreated: 1491985948
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: kachannomemo_1
+  fontNames:
+  - kachannomemo_1
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
